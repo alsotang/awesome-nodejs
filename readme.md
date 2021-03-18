@@ -283,6 +283,7 @@
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 - [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
+- [commander](https://github.com/tj/commander.js/) - The complete solution for node.js command-line interfaces.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 - [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
